@@ -1,0 +1,14 @@
+{
+  "name": "itto",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Hugo <wheredidhugo@proton.me>",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
