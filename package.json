@@ -6,6 +6,11 @@
   "main": "index.js",
   "license": "MIT",
   "type": "module",
+  "keywords": [
+    "nodejs",
+    "internet",
+    "fetch"
+  ],
   "scripts": {
     "start": "node ."
   },
