@@ -11,6 +11,14 @@
     "internet",
     "fetch"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wheredidhugo/istto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wheredidhugo/istto/issues"
+  },
+  "homepage": "https://github.com/wheredidhugo/istto",
   "scripts": {
     "start": "node ."
   },
