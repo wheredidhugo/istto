@@ -1,6 +1,6 @@
 import fetch, { FetchError } from "node-fetch";
 
-const itto = fetch("https://httpbin.org/anything")
+const istto = fetch("https://httpbin.org/anything")
   .then((res) => res.json())
   .then((data) => {
     if (data.origin) {
@@ -24,4 +24,4 @@ export const ip = fetch("https://httpbin.org/anything")
     }
   });
 
-export default itto;
+export default istto;
