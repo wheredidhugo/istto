@@ -1,6 +1,6 @@
 {
   "name": "istto",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "🌐 A library that looks if you're connected to the internet.",
   "author": "Hugo <wheredidhugo@proton.me>",
   "main": "index.js",
