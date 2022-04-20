@@ -20,9 +20,16 @@
   },
   "homepage": "https://github.com/wheredidhugo/istto",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "start-cli": "node cli.js"
   },
   "dependencies": {
+    "chalk": "^5.0.1",
+    "meow": "^10.1.2",
+    "nanospinner": "^1.1.0",
     "node-fetch": "^3.2.3"
+  },
+  "bin": {
+    "istto": "./cli.js"
   }
 }
